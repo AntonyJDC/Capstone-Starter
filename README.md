@@ -84,4 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Author
 
-- [Prashant Jagtap](https://github.com/AntonyJDC)
+- [Antony](https://github.com/AntonyJDC)
